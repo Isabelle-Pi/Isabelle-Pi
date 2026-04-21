@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isabelle-Pi
 - 👀 I’m interested in space and computers
-- 🌱 I’m currently learning about synthetic aperture radar
+- 🌱 I’m currently learning about rovers
 - 💞️ I’m looking to collaborate on ^^
 - 📫 How to reach me: izzypinto3@gmail.com
 
